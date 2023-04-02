@@ -68,10 +68,17 @@
     
        git branch <new branch>
        где new branch-имя ветки.
+
 ## Переход на другую ветку.
 Для того чтобы перейти на другую ветку,набераем команду
 
     git checkout <name branch>
     где <name branch>-имя ветки.
+
+## Удаление ветки
+Для того чтобы удалить ветки,нужно ввести команду:
+
+    git branch -d <name branch>
+    где <name branch>-имя ветки
 
     
